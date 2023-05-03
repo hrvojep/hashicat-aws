@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="CISRO-ALA.png"></img></center>
+  <img src="CISRO-ALA.png"></img>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app.
   <!-- END -->
